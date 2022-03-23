@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="test.pak.TestNG">
+        <methods>
+          <include name="testA"/>
+          <include name="afterclassmethod"/>
+          <include name="testF"/>
+          <include name="beforemethod"/>
+          <include name="beforeclassmethod"/>
+          <include name="testB"/>
+          <include name="Lauchbrowser"/>
+          <include name="testE"/>
+          <include name="testC"/>
+          <include name="testD"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- test.pak.TestNG -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

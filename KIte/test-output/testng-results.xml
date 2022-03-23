@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-18T19:10:22 IST" name="Suite" finished-at="2022-03-18T19:11:14 IST" duration-ms="52107">
+    <groups>
+    </groups>
+    <test started-at="2022-03-18T19:10:22 IST" name="chrome" finished-at="2022-03-18T19:11:14 IST" duration-ms="52107">
+      <class name="test.pak.TestNG">
+        <test-method is-config="true" signature="Lauchbrowser(java.lang.String)[pri:0, instance:test.pak.TestNG@73ee04c8]" started-at="2022-03-18T19:10:22 IST" name="Lauchbrowser" finished-at="2022-03-18T19:10:25 IST" duration-ms="2796" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Lauchbrowser -->
+        <test-method is-config="true" signature="beforeclassmethod()[pri:0, instance:test.pak.TestNG@73ee04c8]" started-at="2022-03-18T19:10:25 IST" name="beforeclassmethod" finished-at="2022-03-18T19:10:29 IST" duration-ms="3334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclassmethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:test.pak.TestNG@73ee04c8]" started-at="2022-03-18T19:10:29 IST" name="beforemethod" finished-at="2022-03-18T19:10:31 IST" duration-ms="2598" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="testA()[pri:0, instance:test.pak.TestNG@73ee04c8]" started-at="2022-03-18T19:10:31 IST" name="testA" finished-at="2022-03-18T19:10:34 IST" duration-ms="3056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testA -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:test.pak.TestNG@73ee04c8]" started-at="2022-03-18T19:10:34 IST" name="aftermethod" finished-at="2022-03-18T19:10:38 IST" duration-ms="3322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:test.pak.TestNG@73ee04c8]" started-at="2022-03-18T19:10:38 IST" name="beforemethod" finished-at="2022-03-18T19:10:40 IST" duration-ms="2444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="testB()[pri:0, instance:test.pak.TestNG@73ee04c8]" started-at="2022-03-18T19:10:40 IST" name="testB" finished-at="2022-03-18T19:10:42 IST" duration-ms="2225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testB -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:test.pak.TestNG@73ee04c8]" started-at="2022-03-18T19:10:42 IST" name="aftermethod" finished-at="2022-03-18T19:10:45 IST" duration-ms="3108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:test.pak.TestNG@73ee04c8]" started-at="2022-03-18T19:10:45 IST" name="beforemethod" finished-at="2022-03-18T19:10:48 IST" duration-ms="2454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="testC()[pri:0, instance:test.pak.TestNG@73ee04c8]" started-at="2022-03-18T19:10:48 IST" name="testC" finished-at="2022-03-18T19:10:49 IST" duration-ms="1422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testC -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:test.pak.TestNG@73ee04c8]" started-at="2022-03-18T19:10:49 IST" name="aftermethod" finished-at="2022-03-18T19:10:52 IST" duration-ms="3105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:test.pak.TestNG@73ee04c8]" started-at="2022-03-18T19:10:52 IST" name="beforemethod" finished-at="2022-03-18T19:10:55 IST" duration-ms="2488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="testD()[pri:0, instance:test.pak.TestNG@73ee04c8]" started-at="2022-03-18T19:10:55 IST" name="testD" finished-at="2022-03-18T19:10:56 IST" duration-ms="1695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testD -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:test.pak.TestNG@73ee04c8]" started-at="2022-03-18T19:10:56 IST" name="aftermethod" finished-at="2022-03-18T19:11:00 IST" duration-ms="3488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:test.pak.TestNG@73ee04c8]" started-at="2022-03-18T19:11:00 IST" name="beforemethod" finished-at="2022-03-18T19:11:03 IST" duration-ms="2563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="testE()[pri:0, instance:test.pak.TestNG@73ee04c8]" started-at="2022-03-18T19:11:03 IST" name="testE" finished-at="2022-03-18T19:11:04 IST" duration-ms="1750" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testE -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:test.pak.TestNG@73ee04c8]" started-at="2022-03-18T19:11:04 IST" name="aftermethod" finished-at="2022-03-18T19:11:07 IST" duration-ms="3044" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:test.pak.TestNG@73ee04c8]" started-at="2022-03-18T19:11:07 IST" name="beforemethod" finished-at="2022-03-18T19:11:10 IST" duration-ms="2490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="testF()[pri:0, instance:test.pak.TestNG@73ee04c8]" started-at="2022-03-18T19:11:10 IST" name="testF" finished-at="2022-03-18T19:11:11 IST" duration-ms="1474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testF -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:test.pak.TestNG@73ee04c8]" started-at="2022-03-18T19:11:11 IST" name="aftermethod" finished-at="2022-03-18T19:11:14 IST" duration-ms="3175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="afterclassmethod()[pri:0, instance:test.pak.TestNG@73ee04c8]" started-at="2022-03-18T19:11:14 IST" name="afterclassmethod" finished-at="2022-03-18T19:11:14 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclassmethod -->
+      </class> <!-- test.pak.TestNG -->
+    </test> <!-- chrome -->
+  </suite> <!-- Suite -->
+</testng-results>
